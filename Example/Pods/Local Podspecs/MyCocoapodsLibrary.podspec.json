@@ -1,0 +1,27 @@
+{
+  "name": "MyCocoapodsLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodsLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iamnaz/MyCocoapodsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iamnaz": "iamnazdelacruz@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/iamnaz/MyCocoapodsLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyCocoapodsLibrary/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "MyCocoapodsLibrary/Assets/flower.jpg"
+    ]
+  }
+}

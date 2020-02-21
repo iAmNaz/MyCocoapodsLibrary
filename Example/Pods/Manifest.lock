@@ -1,0 +1,16 @@
+PODS:
+  - MyCocoapodsLibrary (0.1.0)
+
+DEPENDENCIES:
+  - MyCocoapodsLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MyCocoapodsLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyCocoapodsLibrary: c865a1455392768f96382f3acf4cad49de7eb242
+
+PODFILE CHECKSUM: 50c041ca3d42433307d726bf0df9192ccc9d574d
+
+COCOAPODS: 1.8.4
